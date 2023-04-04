@@ -6,6 +6,8 @@
 
 ## Foundation Models
 1. [2023 arxiv] **LLaMA: Open and Efficient Foundation Language Models** [[paper]](https://arxiv.org/abs/2302.13971v1)[[code]](https://github.com/facebookresearch/llama)
+1. [2023 arxiv] **GPT-4 Technical Report** [[paper]](https://arxiv.org/pdf/2303.08774.pdf)
+
 
 ## Fine-tuning
 1. [2023 arxiv] **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** [[paper]](https://arxiv.org/abs/2303.16199)[[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
