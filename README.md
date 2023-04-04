@@ -11,6 +11,7 @@
 1. [2023 arxiv] **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** [[paper]](https://arxiv.org/abs/2303.16199)[[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 1. [2023 Github] **Stanford Alpaca: An Instruction-following LLaMA model** [[code]](https://github.com/tatsu-lab/stanford_alpaca)
 1. [2023 Github] **Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality** [[code]](https://github.com/lm-sys/FastChat)
+1. [2023 Github] **Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM** [[code]](https://github.com/AetherCortex/Llama-X)
 
 
 
