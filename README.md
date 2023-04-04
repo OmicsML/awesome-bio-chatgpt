@@ -9,7 +9,7 @@
 
 ## Fine-tuning
 1. [2023 arxiv] **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** [[paper]](https://arxiv.org/abs/2303.16199)[[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
-
+1. [2023 Github] **Stanford Alpaca: An Instruction-following LLaMA model** [[code]](https://github.com/tatsu-lab/stanford_alpaca)
 
 
 
