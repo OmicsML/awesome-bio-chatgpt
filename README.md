@@ -1,5 +1,9 @@
 # awesome-bio-chatgpt
 
+## Survey
+1. [2023 arxiv] **A Survey of Large Language Models** [[paper]](https://arxiv.org/abs/2303.18223)
+
+
 ## Foundation Models
 1. [2023 arxiv] **LLaMA: Open and Efficient Foundation Language Models** [[paper]](https://arxiv.org/abs/2302.13971v1)[[code]](https://github.com/facebookresearch/llama)
 
