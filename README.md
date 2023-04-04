@@ -9,6 +9,11 @@
 1. [2023 arxiv] **GPT-4 Technical Report** [[paper]](https://arxiv.org/pdf/2303.08774.pdf)
 
 
+## Interface Between LLMs and Your External Data
+1. [2023 LlamaHub] **LlamaIndex** [[code]](https://github.com/emptycrown/llama-hub)
+1. [2023 Github] **LlamaIndex** [[code]](https://github.com/jerryjliu/llama_index)
+
+
 ## Fine-tuning
 1. [2023 arxiv] **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** [[paper]](https://arxiv.org/abs/2303.16199)[[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 1. [2023 Github] **Stanford Alpaca: An Instruction-following LLaMA model** [[code]](https://github.com/tatsu-lab/stanford_alpaca)
@@ -16,9 +21,6 @@
 1. [2023 Github] **Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM** [[code]](https://github.com/AetherCortex/Llama-X)
 
 
-## Interface Between LLMs and Your External Data
-1. [2023 LlamaHub] **LlamaIndex** [[code]](https://github.com/emptycrown/llama-hub)
-1. [2023 Github] **LlamaIndex** [[code]](https://github.com/jerryjliu/llama_index)
 
 ## Others
 1. [2023 arxiv] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** [[paper]](https://arxiv.org/abs/2303.17580)[[code]](https://github.com/microsoft/JARVIS)
