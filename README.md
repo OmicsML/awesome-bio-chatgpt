@@ -10,8 +10,8 @@
 
 
 ## Interface Between LLMs and Your External Data
-1. [2023 LlamaHub] **LlamaIndex** [[code]](https://github.com/emptycrown/llama-hub)
-1. [2023 Github] **LlamaIndex** [[code]](https://github.com/jerryjliu/llama_index)
+1. [2023 Github] **LlamaHub** [[code]](https://github.com/emptycrown/llama-hub) (NOTE: a simple library of all the data loaders)
+1. [2023 Github] **LlamaIndex** [[code]](https://github.com/jerryjliu/llama_index) (NOTE: a central interface to connect your LLM's with external data)
 
 
 ## Fine-tuning
