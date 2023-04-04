@@ -16,6 +16,9 @@
 1. [2023 Github] **Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM** [[code]](https://github.com/AetherCortex/Llama-X)
 
 
+## Interface Between LLMs and Your External Data
+1. [2023 LlamaHub] **LlamaIndex** [[code]](https://github.com/emptycrown/llama-hub)
+1. [2023 Github] **LlamaIndex** [[code]](https://github.com/jerryjliu/llama_index)
 
 ## Others
 1. [2023 arxiv] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** [[paper]](https://arxiv.org/abs/2303.17580)[[code]](https://github.com/microsoft/JARVIS)
