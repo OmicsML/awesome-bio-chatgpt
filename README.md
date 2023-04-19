@@ -7,6 +7,8 @@
 ## Foundation Models
 1. [2023 arxiv] **LLaMA: Open and Efficient Foundation Language Models** [[paper]](https://arxiv.org/abs/2302.13971v1)[[code]](https://github.com/facebookresearch/llama)
 1. [2023 arxiv] **GPT-4 Technical Report** [[paper]](https://arxiv.org/pdf/2303.08774.pdf)
+1. [2023 Github] **StableLM: Stability AI Language Models** [[code]](https://github.com/Stability-AI/StableLM)
+
 
 
 ## Interface Between LLMs and Your External Data
@@ -23,6 +25,7 @@
 
 
 ## Others
+1. [2023 Github] **LangChain: Building applications with LLMs through composability** [[code]](https://github.com/hwchase17/langchain)
 1. [2023 Github] **Auto-GPT: An Autonomous GPT-4 Experiment** [[code]](https://github.com/Significant-Gravitas/Auto-GPT)
 1. [2023 arxiv] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** [[paper]](https://arxiv.org/abs/2303.17580)[[code]](https://github.com/microsoft/JARVIS)
 1. [2023 arxiv] **ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge** [[paper]](https://arxiv.org/abs/2303.14070)[[code]](https://github.com/Kent0n-Li/ChatDoctor)
