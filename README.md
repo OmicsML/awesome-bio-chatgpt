@@ -5,9 +5,9 @@
 1. [2023 arxiv] **One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era** [[paper]](https://arxiv.org/abs/2304.06488)
 
 ## Foundation Models
-1. [2023 arxiv] **LLaMA: Open and Efficient Foundation Language Models** [[paper]](https://arxiv.org/abs/2302.13971v1)[[code]](https://github.com/facebookresearch/llama)
-1. [2023 arxiv] **GPT-4 Technical Report** [[paper]](https://arxiv.org/pdf/2303.08774.pdf)
-1. [2023 Github] **StableLM: Stability AI Language Models** [[code]](https://github.com/Stability-AI/StableLM)
+1. [2023 arxiv]**(Meta) LLaMA: Open and Efficient Foundation Language Models** [[paper]](https://arxiv.org/abs/2302.13971v1)[[code]](https://github.com/facebookresearch/llama)
+1. [2023 arxiv] **(OpenAI) GPT-4 Technical Report** [[paper]](https://arxiv.org/pdf/2303.08774.pdf)
+1. [2023 Github] **(Stability-AI) StableLM: Stability AI Language Models** [[code]](https://github.com/Stability-AI/StableLM)
 
 
 
