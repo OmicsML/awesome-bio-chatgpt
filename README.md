@@ -34,4 +34,5 @@
 1. [2023 arxiv] **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks** [[paper]](https://arxiv.org/abs/2303.15056)
 1. [2023 arxiv] **Language Models can Solve Computer Tasks** [[paper]](https://arxiv.org/pdf/2303.17491.pdf)
 1. [2022 arxiv] **BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining** [[paper]](https://arxiv.org/abs/2210.10341)[[code]](https://github.com/microsoft/BioGPT)
+1. [2023 Github] **Dolly** [[code]](https://github.com/databrickslabs/dolly)
 
