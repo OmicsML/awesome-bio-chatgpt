@@ -25,6 +25,7 @@
 
 
 ## Others
+1. [2023 Github] **DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales** [[code]](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
 1. [2023 Github] **LangChain: Building applications with LLMs through composability** [[code]](https://github.com/hwchase17/langchain)
 1. [2023 Github] **Auto-GPT: An Autonomous GPT-4 Experiment** [[code]](https://github.com/Significant-Gravitas/Auto-GPT)
 1. [2023 arxiv] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** [[paper]](https://arxiv.org/abs/2303.17580)[[code]](https://github.com/microsoft/JARVIS)
