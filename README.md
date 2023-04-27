@@ -1,6 +1,7 @@
 # awesome-bio-chatgpt
 
 ## Survey
+1. [2023 arxiv] **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** [[paper]](https://www.researchgate.net/publication/370224758_Harnessing_the_Power_of_LLMs_in_Practice_A_Survey_on_ChatGPT_and_Beyond)
 1. [2023 arxiv] **A Survey of Large Language Models** [[paper]](https://arxiv.org/abs/2303.18223)
 1. [2023 arxiv] **One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era** [[paper]](https://arxiv.org/abs/2304.06488)
 
